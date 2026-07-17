@@ -41,8 +41,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the6fallenangel&animation=load&theme=github_dark" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the6fallenangel&theme=github_dark&animation=load&name=The6FallenAngel)
