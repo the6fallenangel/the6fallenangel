@@ -1,6 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header"/>
-
-<h1 align="center">Hi, I'm Alireza Mohammadi 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&text=Alireza%20Mohammadi%20&desc=Software%20Engineer%20|%20Backend%20Architecture%20|%20Full-Stack%20Development&reversal=true&textBg=false&animation=twinkling&descSize=18&fontAlignY=43"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer;Building+Production+Backend+Systems;Laravel+%7C+Livewire+%7C+Next.Js+%7C+Flutter+%7C+Go;Clean+Architecture+%26+Distributed+Systems" alt="Typing SVG" />
@@ -44,7 +42,7 @@
 ---
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=the6fallenangel&theme=transparent&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the6fallenangel&animation=load&theme=github_dark" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
