@@ -1,19 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&text=Alireza%20Mohammadi%20&desc=Software%20Engineer%20|%20Backend%20Architecture%20|%20Full-Stack%20Development&reversal=true&textBg=false&animation=twinkling&descSize=18&fontAlignY=43"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&text=Alireza%20Mohammadi%20&desc=Software%20Engineer%20|%20Backend%20Systems%20|%20Full-Stack%20Development&reversal=true&textBg=false&animation=twinkling&descSize=18&fontAlignY=43"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer;Building+Production+Backend+Systems;Laravel+%7C+Livewire+%7C+Next.Js+%7C+Flutter+%7C+Go;Clean+Architecture+%26+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&center=true&width=435&lines=Software+Engineer;Building+Production+Systems;Backend+Architecture+%26+API+Design;Clean+Code.+Reliable+Software." alt="Typing SVG" />
 </p>
 
 ---
 
 ## About Me
 
-- 🚀 Building production-grade backend systems and full-stack applications
+- 🚀 Software engineer focused on building production applications
 - ⚙️ Experienced with Laravel, Livewire, Go, Next.js and Flutter
-- 🧩 Interested in distributed systems, concurrency and scalable architectures
-- 🐧 Linux is my daily development environment
+- 🧩 Interested in distributed systems, scalability and clean architecture
+- 🐧 Linux enthusiast and daily user
 - 🔓 Public repositories showcase experiments and side projects — most production work is private
-- ☕ I enjoy turning complex problems into maintainable software
+- 🛠️ Focused on simple solutions for complex problems
 
 ---
 
@@ -34,6 +34,9 @@
   <a href="https://t.me/the6fallenangels">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
   </a>
+  <a href="mailto:alirezaa80m@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
   <a href="https://instagram.com/the6fallenangels">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
