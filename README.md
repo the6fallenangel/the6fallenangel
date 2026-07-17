@@ -47,3 +47,5 @@
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the6fallenangel&theme=github_dark&animation=load&name=The6FallenAngel"/>
 </p>
+
+<img src="https://raw.githubusercontent.com/the6fallenangel/the6fallenangel/gh-pages/github-contribution-grid-snake-dark.svg" />
