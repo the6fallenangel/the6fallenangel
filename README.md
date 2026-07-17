@@ -41,4 +41,6 @@
 
 ---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the6fallenangel&theme=github_dark&animation=load&name=The6FallenAngel)
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the6fallenangel&theme=github_dark&animation=load&name=The6FallenAngel"/>
+</p>
