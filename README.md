@@ -48,4 +48,26 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the6fallenangel&theme=github_dark&animation=load&name=The6FallenAngel"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/the6fallenangel/the6fallenangel/gh-pages/github-contribution-grid-snake-dark.svg" />
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/the6fallenangel/the6fallenangel/gh-pages/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake"
+  />
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/the6fallenangel/the6fallenangel/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/the6fallenangel/the6fallenangel/output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/the6fallenangel/the6fallenangel/output/pacman-contribution-graph.svg"
+      alt="Pacman contribution graph"
+    />
+  </picture>
+</p>
