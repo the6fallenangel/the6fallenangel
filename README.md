@@ -25,6 +25,56 @@
 
 ---
 
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Variza — واریزا
+
+**Automatic card-to-card payment gateway for Iran**
+
+No payment gateway, no Enamad, no receipt hassle. Create a payment link, share it, and Variza verifies the bank SMS automatically in seconds.
+
+<a href="https://variza.ir">
+  <img src="https://img.shields.io/badge/Live-variza.ir-10B981?style=flat-square&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://variza.ir/developers">
+  <img src="https://img.shields.io/badge/API-Docs-0EA5E9?style=flat-square&logo=swagger&logoColor=white" />
+</a>
+
+- **Highlights:** SMS-based auto-verification, multi-card routing, QR links, Telegram bot, HMAC webhooks, team/marketplace plans
+- **Role:** Full-stack — architecture, backend, frontend & DevOps
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Baha — بها
+
+**Live gold, currency & crypto rates in your GNOME top bar**
+
+/bahā/ — "value" in Persian. Glance up and know the price.
+
+<a href="https://github.com/the6fallenangel/gnome-baha">
+  <img src="https://img.shields.io/badge/GitHub-gnome--baha-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://extensions.gnome.org/extension/10550/baha/">
+  <img src="https://img.shields.io/badge/GNOME_Extensions-10550-4A86CF?style=flat-square&logo=gnome&logoColor=white" />
+</a>
+<a href="https://github.com/the6fallenangel/gnome-baha/blob/main/LICENSE">
+  <img src="https://img.shields.io/badge/License-GPLv3-blue?style=flat-square" />
+</a>
+
+- **Highlights:** Bilingual EN/FA, trend indicators ▲▼, bring-your-own API key, lightweight marquee, privacy-first
+- **Install:** `extensions.gnome.org` or manual
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Connect
 
 <p align="center">
